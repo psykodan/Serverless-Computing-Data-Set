@@ -1,6 +1,6 @@
 # Serverless-Computing-Behind-the-Scenes-of-Major-Platforms-Data-Set
 
-This data set (found at https://nuigalwayie-my.sharepoint.com/:f:/g/personal/0102835s_nuigalway_ie/Es0MJAURRoZJueNgPIB3VmQBYMMRCWPA2JsaaiPCVFTdXw?e=c5pDX9 ) is the result of calling python based benchmarking functions on AWS Lambda and Google Cloud Functions every hour over the course of one month. These functions measure: 
+This data set (found at https://nuigalwayie-my.sharepoint.com/personal/0102835s_universityofgalway_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F0102835s%5Funiversityofgalway%5Fie%2FDocuments%2FDK%20PhD%20Repo%2FServerlessBenchmarkData2020&ga=1 ) is the result of calling python based benchmarking functions on AWS Lambda and Google Cloud Functions every hour over the course of one month. These functions measure: 
 cpu information from the /proc/cpuinfo file
 cpu timing statistics from the /proc/stats file
 request and response time of a function
